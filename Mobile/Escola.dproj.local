@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/28 00:05:07.000.355,=C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/04/13 22:31:15.000.067,=C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/27 17:24:00.000.052,=C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/17 23:43:59.000.208,=C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/17 23:45:02.000.737,C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\EscolaOnline\Mobile\UnitLogin.pas</Transaction>
+    <Transaction>2023/10/17 23:45:02.000.737,C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\EscolaOnline\Mobile\UnitLogin.fmx</Transaction>
+    <Transaction>2023/10/17 23:45:05.000.835,C:\Users\igorj\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\EscolaOnline\Mobile\Escola.dproj</Transaction>
+    <Transaction>2023/10/18 00:06:21.000.087,=C:\Projetos\EscolaOnline\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/10/18 00:07:02.000.653,C:\Projetos\EscolaOnline\Mobile\Unit1.fmx=C:\Projetos\EscolaOnline\Mobile\UnitAlunoSelecao.fmx</Transaction>
+    <Transaction>2023/10/18 00:07:02.000.653,C:\Projetos\EscolaOnline\Mobile\Unit1.pas=C:\Projetos\EscolaOnline\Mobile\UnitAlunoSelecao.pas</Transaction>
+    <Transaction>2023/10/18 00:24:06.000.625,=C:\Projetos\EscolaOnline\Mobile\Unit1.pas</Transaction>
+    <Transaction>2023/10/18 00:24:17.000.508,C:\Projetos\EscolaOnline\Mobile\Unit1.pas=C:\Projetos\EscolaOnline\Mobile\UnitPrincipal.pas</Transaction>
+    <Transaction>2023/10/18 00:24:17.000.508,C:\Projetos\EscolaOnline\Mobile\Unit1.fmx=C:\Projetos\EscolaOnline\Mobile\UnitPrincipal.fmx</Transaction>
+  </Transactions>
+</BorlandProject>
